@@ -17,5 +17,5 @@ conda create --name lab1_env python=3.10
 conda activate lab1_env
 
 #To run main.py and test_main.py
-python src/main.py
 python tests/test_main.py
+python src/main.py
