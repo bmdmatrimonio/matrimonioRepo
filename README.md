@@ -6,6 +6,10 @@ This Repository contains the source code for **Lab Activity 1**
 1. Open Anaconda Prompt (or PowerShell) and run the following commands to create and activate your environment
 
 ```bash
+# Cloning the repository
+git clone [https://github.com/bmdmatrimonio/matrimonioRepo.git](https://github.com/bmdmatrimonio/matrimonioRepo.git)
+cd lab1_workspace
+
 # Create a dedicated pyhton environment
 conda create --name lab1_env python=3.10
 
